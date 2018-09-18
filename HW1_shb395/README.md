@@ -6,11 +6,11 @@ For PUI HW1, I created an environmental variable for a file path and an alias wi
 
 First, I made a folder called "PUI2018" using mkdir in the terminal. Then I used nano to create a variable (called "PUI2018") that specified the file path to my new "PUI2018" folder. Next, I defined an alias ("pui2018") that would call the directory specified by my PUI2018 variable. See the following screenshot of my new variable and alias:
 
-![Alt text](../alias.png)
+![Alt text](../HW1_shb395/alias.png)
 
 After having defined the variable and the alias in nano, I navigated back to the terminal and reloaded my .bashrc file using "source ~/.bashrc" to activate my variable and alias. See the following screenshot of my terminal window to see where I activated the variable and alias and then used the alias to navigate through my directory.
 
-![Alt text](../terminal.png)
+![Alt text](../HW1_shb395/terminal.png)
 
 ## Seeding and Plotting Randomly Generated Numbers
 

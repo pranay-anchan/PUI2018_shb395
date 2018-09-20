@@ -12,19 +12,19 @@ First I created a file called "test.csv" in my repo. Then I pulled the csv (and 
 
 Screenshot of test.csv in my repo:
 
-![Alt text](../HW3_shb395/grab_with_csv.png)
+![Alt text](../HW3_shb395/images/grab_with_csv.png)
 
 
 History of test.csv being added to repo:
 
-![Alt text](../HW3_shb395/with_csv_hist.png)
+![Alt text](../HW3_shb395/images/with_csv_hist.png)
 
 
 After removal, test.csv no longer found in repo:
 
-![Alt text](../HW3_shb395/no_csv_in_folder.png)
+![Alt text](../HW3_shb395/images/no_csv_in_folder.png)
 
 
 Post removal, no history of test.csv in repo:
 
-![Alt text](../HW3_shb395/history_no_csv.png)
+![Alt text](../HW3_shb395/images/history_no_csv.png)

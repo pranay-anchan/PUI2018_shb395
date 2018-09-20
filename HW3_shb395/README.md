@@ -28,3 +28,7 @@ After removal, test.csv no longer found in repo:
 Post removal, no history of test.csv in repo:
 
 ![Alt text](../HW3_shb395/images/history_no_csv.png)
+
+### Note on collaboration with others
+
+For HW3, I discussed the assignment and ways to interpret or clean data with Cyrus Blankenship, Colin Bradley, Rohun Iyer, and Sam Manzi. We did not explicitly share specific lines of code. 

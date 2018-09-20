@@ -12,7 +12,7 @@ First I created a file called "test.csv" in my repo. Then I pulled the csv (and 
 
 Screenshot of test.csv in my repo:
 
-![Alt text](../HW3_shb395/grab_with_csv/.png)
+![Alt text](../HW3_shb395/grab_with_csv.png)
 
 History of test.csv being added to repo:
 

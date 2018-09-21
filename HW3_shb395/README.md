@@ -31,4 +31,4 @@ Post removal, no history of test.csv in repo:
 
 ### Note on collaboration with others
 
-For HW3, I discussed the assignment and ways to interpret or clean data with Cyrus Blankenship, Colin Bradley, Rohun Iyer, and Sam Manzi. We did not explicitly share specific lines of code. 
+For HW3, I discussed the assignment and ways to interpret or clean data with Cyrus Blankenship, Colin Bradley, Rohun Iyer, and Sam Manzi. We did not explicitly share specific lines of code. For assignment 2, in particular, Sam Manzi provided recommendations on how to incorporate mean and standard deviation calculations and logarithmic plot scales to make the data more easily interpreted.

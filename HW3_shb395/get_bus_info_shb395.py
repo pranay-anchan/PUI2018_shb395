@@ -15,7 +15,7 @@ pl.rc('font', size=15)
 
 # Check to make sure name of python script, API key, and bus line are entered
 if not len(sys.argv) == 4:
-    print ("Invalid number of arguments. Run as: python <MTA_KEY> <BUS_LINE> <NAME_OF_FILE")
+    print ("Invalid number of arguments. Run as: python <MTA_KEY> <BUS_LINE> <NAME_OF_FILE>")
     sys.exit()
 
 # Get the bus number
